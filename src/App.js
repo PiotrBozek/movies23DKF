@@ -1,23 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Items from './components/Items.jsx';
+import Input from './components/Input.jsx';
 
-function App() {
+import './App.css';
+import DATA from './mocks/API_DATA.json';
+
+const App = () => {
+
+  const [data, setData] = useState(DATA);
+  const [val, setVal] = useState('');
+
+  const onValueSubmit = (e) => {
+  setVal(e); 
+  const items = DATA.items.filter(item => item.namePL.includes(e.toLocaleUpperCase()));
+  setData({items});
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <h1>Filmy, które były wyświetlone w żagańskim DKF'ie 'Drewniany koń' w <span>2022</span> roku</h1>
+        {/* <Input 
+        value = {val}
+        onFormSubmit = {onValueSubmit} 
+        /> */}
       </header>
+      <main className='containerApp'>
+        <Items data = {data} />
+      </main>
+      
     </div>
   );
 }

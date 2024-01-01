@@ -1,0 +1,291 @@
+{
+  "items": [
+     {
+        "key": 1,
+        "namePL": "Nitram",
+        "nameEN": "Nitram",
+	"director": "Justin Kurzel",
+	"img": "nitram.jpeg"
+      },
+      {
+        "key": 2, 
+        "namePL": "Chrzciny",
+        "nameEN": "Chrzciny",
+	"director": "Jakub Skoczeń",
+	"img": "chrzciny.jpg"
+      },
+      {
+        "key": 3,
+        "namePL": "Śubuk",
+        "nameEN": "Śubuk",
+	"director": "Jacek Lusiński",
+	"img": "subuk.jpg"
+      },
+      {
+        "key": 4,
+        "namePL": "W trójkącie",
+        "nameEN": "Triangle of Sadness",
+	"director": "Ruben Östlund",
+	"img": "wtrojkacie.jpg"
+      },
+      {
+        "key": 5,
+        "namePL": "Serce dębu",
+        "nameEN": "Le Chêne",
+	"director": "Laurent Charbonnier, Michel Seydoux",
+	"img": "sercedebu.jpg"
+      },
+      {
+        "key": 6,
+        "namePL": "Niebezpieczni dżentelmeni",
+        "nameEN": "Niebezpieczni dżentelmeni",
+	"director": "Maciej Kawalski",
+	"img": "niebezpieczni.jpg"
+      },
+      {
+        "key": 7,
+        "namePL": "Chleb i sól",
+        "nameEN": "Chleb i sól",
+	"director": "Damian Kocur",
+	"img": "Chleb.jpg"
+      },
+      {
+        "key": 8,
+        "namePL": "Blisko",
+        "nameEN": "Close",
+	"director": "Lukas Dhont",
+	"img": "blisko.jpg"
+      },
+      {
+        "key": 9,
+        "namePL": "Właściciele",
+        "nameEN": "Vlastníci",
+	"director": "Jiří Havelka",
+	"img": "wlasciciele.jpg"
+      },
+      {
+        "key": 10,
+        "namePL": "Lunana, szkoła na końcu świata",
+        "nameEN": "Lunana: A Yak in the Classroom",
+	"director": "Pawo Choyning Dorji",
+	"img": "lunana.jpg"
+      },
+      {
+        "key": 11,
+        "namePL": "Aftersun",
+        "nameEN": "Aftersun",
+	"director": "Charlotte Wells",
+	"img": "aftersun.jpg"
+      },
+      {
+        "key": 12,
+        "namePL": "Holy Spider",
+        "nameEN": "Holy Spider",
+	"director": "Ali Abbasi",
+	"img": "HolySpider.jpg"
+      },
+      {
+        "key": 13,
+        "namePL": "Filip",
+        "nameEN": "Filip",
+	"director": "Michał Kwieciński",
+	"img": "Filip.jpg"
+      },
+      {
+        "key": 14,
+        "namePL": "Godland",
+        "nameEN": "Vanskabte Land",
+	"director": "Hlynur Pálmason",
+	"img": "Godland.png"
+      },
+      {   
+        "key": 15,
+        "namePL": "Sundown",
+        "nameEN": "Sundown",
+	"director": "Michel Franco",
+	"img": "Sundown.jpg"
+      },
+      {
+        "key": 16,
+        "namePL": "W gorsecie",
+        "nameEN": "Corsage",
+	"director": "Marie Kreutzer",
+	"img": "Wgorsecie.jpg"
+      },
+      {
+        "key": 17,
+        "namePL": "Bezmiar",
+        "nameEN": "L'immensità",
+	"director": "Emanuele Crialese",
+	"img": "Bezmiar.jpg"
+      },
+      {
+        "key": 18,
+        "namePL": "Roving Woman",
+        "nameEN": "Roving Woman",
+	"director": "Michał Chmielewski",
+	"img": "RovingWoman.jpg"
+      },
+      {
+        "key": 19,
+        "namePL": "Liczba doskonała",
+        "nameEN": "Liczba doskonała",
+	"director": "Krzysztof Zanussi",
+	"img": "Liczba.jpeg"
+      },
+      {
+        "key": 20,
+        "namePL": "Bo się boi",
+        "nameEN": "Beau Is Afraid",
+	"director": "Ari Aster",
+	"img": "Bosieboi.jpg"
+      },
+      {
+        "key": 21,
+        "namePL": "Podejrzana",
+        "nameEN": "Heojil kyolshim",
+	"director": "Chan-wook Park",
+	"img": "Podejrzana.jpg"
+      },
+      {
+        "key": 22,
+        "namePL": "Prześwietlenie",
+        "nameEN": "R.M.N.",
+	"director": "Cristian Mungiu",
+	"img": "Przeswietlenie.jpg"
+      },
+      {
+        "key": 23,
+        "namePL": "24 godziny",
+        "nameEN": "En los márgenes",
+	"director": "Juan Diego Botto",
+	"img": "24godziny.jpg"
+      },
+      {
+        "key": 24,
+        "namePL": "Osiem gór",
+        "nameEN": "Le otto montagne",
+	"director": "Felix Van Groeningen, Charlotte Vandermeersch",
+	"img": "Osiem.jpg"
+      },
+      {
+        "key": 25,
+        "namePL": "Sytuacja awaryjna",
+        "nameEN": "Mimořádná událost",
+	"director": "Jiří Havelka",
+	"img": "Sytuacjaawaryjna.jpg"
+      },
+      {
+        "key": 26,
+        "namePL": "Bestie",
+        "nameEN": "As bestas",
+	"director": "Rodrigo Sorogoyen",
+	"img": "Bestie.jpg"
+      },
+      {
+        "key": 27,
+        "namePL": "Cicha Dziewczyna",
+        "nameEN": "An Cailín Ciúin",
+	"director": "Colm Bairéad",
+	"img": "Cicha.jpg"
+      },
+      {
+        "key": 28,
+        "namePL": "Georgie ma się dobrze",
+        "nameEN": "Scrapper",
+	"director": "Charlotte Regan",
+	"img": "Georgie.jpg"
+      },
+      {
+        "key": 29,
+        "namePL": "Kochanica króla Jeanne du Barry",
+        "nameEN": "Jeanne du Barry",
+	"director": "Maïwenn",
+	"img": "kochanica.jpg"
+      },
+      {
+        "key": 30,
+        "namePL": "Pierwszy dzień mojego życia",
+        "nameEN": "Il primo giorno della mia vita",
+	"director": "Paolo Genovese",
+	"img": "Pierwszy.jpg"
+      },
+      {
+        "key": 31,
+        "namePL": "Strzępy",
+        "nameEN": "Strzępy",
+	"director": "Beata Dzianowicz",
+	"img": "Strzepy.jpg"
+      },
+      {
+        "key": 32,
+        "namePL": "Falkon Lake",
+        "nameEN": "Falkon Lake",
+	"director": "Charlotte Le Bon",
+	"img": "FalkonLake.jpg"
+      },
+      {
+        "key": 33,
+        "namePL": "Poprzednie życie",
+        "nameEN": "Past Lives",
+	"director": "Celine Song",
+	"img": "Poprzednie.jpg"
+      },
+      {
+        "key": 34,
+        "namePL": "Niezwykła wędrówka Harolda Fry",
+        "nameEN": "The Unlikely Pilgrimage of Harold Fry",
+	"director": "Hettie Macdonald",
+	"img": "HaroldaFry.jpg"
+      },
+      {
+        "key": 35,
+        "namePL": "Sound of Freedom. Dźwięk wolności",
+        "nameEN": "Sound of Freedom",
+	"director": "Alejandro Monteverde",
+	"img": "Sound.jpeg"
+      },
+      {
+        "key": 36,
+        "namePL": "Osobliwości sycylijskie",
+        "nameEN": "La stranezza",
+	"director": "Roberto Andò",
+	"img": "osobliwosci.jpg"
+      },
+      {
+        "key": 37,
+        "namePL": "Niewierni w Paryżu",
+        "nameEN": "Coup de Chance",
+	"director": "Woody Allen",
+	"img": "Niewierni.jpg"
+      },
+      {
+        "key": 38,
+        "namePL": "Kiedy stopi się lód",
+        "nameEN": "Het smelt",
+	"director": "Veerle Baetens",
+	"img": "Kiedystopi.jpg"
+      },
+      {
+        "key": 39,
+        "namePL": "Niedźwiedzie nie istnieją",
+        "nameEN": "Khers nist",
+	"director": "Jafar Panahi",
+	"img": "Niedzwiedzie.jpg"
+      },
+      {
+        "key": 40,
+        "namePL": "How to Have Sex",
+        "nameEN": "How to Have Sex",
+	"director": "Molly Manning Walker",
+	"img": "HowtoHaveSex.jpg"
+      },
+      {
+        "key": 41,
+        "namePL": "Jak Bóg da",
+        "nameEN": "Se Dio Vuole",
+	"director": "Edoardo Maria Falcone",
+	"img": "Jakda.jpg"
+      }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "items": [
+       {
+          "key": 1,
+          "namePL": "Powrót do tamtych dni",
+          "nameEN": "Powrót do tamtych dni",
+      "director": "Konrad Aksinowicz",
+      "img": "Powrot.jpg"
+        },
+        {
+          "key": 2, 
+          "namePL": "Hiszpański romans",
+          "nameEN": "Rifkin's Festival",
+      "director": "Woody Allen",
+      "img": "Hiszpanskiromans.jpg"
+        },
+        {
+          "key": 3,
+          "namePL": "Wszystko zostaje w rodzinie",
+          "nameEN": "Lacci",
+      "director": "Daniele Luchetti",
+      "img": "Lacci.jpg"
+        },
+        {
+          "key": 4,
+          "namePL": "Biały potok",
+          "nameEN": "Biały potok",
+      "director": "Michał Grzybowski",
+      "img": "Bialypotok.jpg"
+        },
+        {
+          "key": 5,
+          "namePL": "Wszystko poszło dobrze",
+          "nameEN": "Tout s'est bien passé",
+      "director": "François Ozon",
+      "img": "Tout_Ozon.jpg"
+        },
+        {
+          "key": 6,
+          "namePL": "Poza prawem",
+          "nameEN": "Down by Law",
+      "director": "Jim Jarmusch",
+      "img": "poza-prawem.jpg"
+        },
+        {
+          "key": 7,
+          "namePL": "C'mon C'mon",
+          "nameEN": "C'mon C'mon",
+      "director": "Mike Mills",
+      "img": "CmonCmon.jpg"
+        },
+        {
+          "key": 8,
+          "namePL": "Król Internetu",
+          "nameEN": "Mainstream",
+      "director": "Gia Coppola",
+      "img": "Mainstream.jpg"
+        },
+        {
+          "key": 9,
+          "namePL": "Oskarżony",
+          "nameEN": "Les Choses humaines",
+      "director": "Yvan Attal",
+      "img": "LesChoseshumaines.jpg"
+        },
+        {
+          "key": 10,
+          "namePL": "Noc na ziemi",
+          "nameEN": "Night on Earth",
+      "director": "Jim Jarmusch",
+      "img": "NightonEarth.jpg"
+        },
+        {
+          "key": 11,
+          "namePL": "Matki równoległe",
+          "nameEN": "Madres paralelas",
+      "director": "Pedro Almodóvar",
+      "img": "Madres.jpg"
+        },
+        {
+          "key": 12,
+          "namePL": "Córka",
+          "nameEN": "The Lost Daughter",
+      "director": "Maggie Gyllenhaal",
+      "img": "TheLostDaughter.jpg"
+        },
+        {
+          "key": 13,
+          "namePL": "Sonata",
+          "nameEN": "Sonata",
+      "director": "Bartosz Blaschke",
+      "img": "Sonata.jpg"
+        },
+        {
+          "key": 14,
+          "namePL": "Drive my car",
+          "nameEN": "Drive my car",
+      "director": "Ryûsuke Hamaguchi",
+      "img": "Drivemycar.jpg"
+        },
+        {   
+          "key": 15,
+          "namePL": "Truposz",
+          "nameEN": "Dead Man",
+      "director": "Jim Jarmusch",
+      "img": "Truposz.jpg"
+        },
+        {
+          "key": 16,
+          "namePL": "Najgorszy człowiek na świecie",
+          "nameEN": "Verdens verste menneske",
+      "director": "Joachim Trier",
+      "img": "Najgorszy.jpg"
+        },
+        {
+          "key": 17,
+          "namePL": "Piosenki o miłości",
+          "nameEN": "Piosenki o miłości",
+      "director": "Tomasz Habowski",
+      "img": "Piosenki.jpg"
+        },
+        {
+          "key": 18,
+          "namePL": "Marzec'68",
+          "nameEN": "Marzec'68",
+      "director": "Krzysztof Lang",
+      "img": "Marzec.jpg"
+        },
+        {
+          "key": 19,
+          "namePL": "Kawa i papierosy",
+          "nameEN": "Coffee and Cigarettes",
+      "director": "Jim Jarmusch",
+      "img": "Coffee.jpg"
+        },
+        {
+          "key": 20,
+          "namePL": "Duch śniegów",
+          "nameEN": "La Panthère des neiges",
+      "director": "Marie Amiguet / Vincent Munier",
+      "img": "laPanthere.jpg"
+        },
+        {
+          "key": 21,
+          "namePL": "Mała mama",
+          "nameEN": "Petite maman",
+      "director": "Céline Sciamma",
+      "img": "Petite.jpg"
+        },
+        {
+          "key": 22,
+          "namePL": "Wszystko wszędzie naraz",
+          "nameEN": "Everything Everywhere All at Once",
+      "director": "Dan Kwan / Daniel Scheinert",
+      "img": "Everything.jpg"
+        },
+        {
+          "key": 23,
+          "namePL": "Spragnieni miłości",
+          "nameEN": "Fa yeung nin wa",
+      "director": "Kar Wai Wong",
+      "img": "FaYeung.jpg"
+        },
+        {
+          "key": 24,
+          "namePL": "La Civil",
+          "nameEN": "La Civil",
+      "director": "Teodora Mihai",
+      "img": "LaCivil.jpg"
+        },
+        {
+          "key": 25,
+          "namePL": "Między dwoma światami",
+          "nameEN": "Ouistreham",
+      "director": "Emmanuel Carrère",
+      "img": "Ouistreham.jpg"
+        },
+        {
+          "key": 26,
+          "namePL": "Infinite Storm",
+          "nameEN": "Infinite Storm",
+      "director": "Małgorzata Szumowska",
+      "img": "Infinite.jpg"
+        },
+        {
+          "key": 27,
+          "namePL": "Stracone złudzenia",
+          "nameEN": "Illusions perdues",
+      "director": "Xavier Giannoli",
+      "img": "Illusions.jpg"
+        },
+        {
+          "key": 28,
+          "namePL": "Ennio",
+          "nameEN": "Ennio",
+      "director": "Giuseppe Tornatore",
+      "img": "Ennio.jpg"
+        },
+        {
+          "key": 29,
+          "namePL": "Ninjababy",
+          "nameEN": "Ninjababy",
+      "director": "Yngvild Sve Flikke",
+      "img": "Ninjababy.jpg"
+        },
+        {
+          "key": 30,
+          "namePL": "Niewierna",
+          "nameEN": "Avec amour et acharnement",
+      "director": "Claire Denis",
+      "img": "AvecAmour.jpg"
+        },
+        {
+          "key": 31,
+          "namePL": "Vortex",
+          "nameEN": "Vortex",
+      "director": "Gaspar Noe",
+      "img": "Vortex.jpg"
+        },
+        {
+          "key": 32,
+          "namePL": "Chungking Express",
+          "nameEN": "Chungking Express",
+      "director": "Kar Wai Wong",
+      "img": "Chungking.jpg"
+        },
+        {
+          "key": 33,
+          "namePL": "Pasażerowie nocy",
+          "nameEN": "Les passagers de la nuit",
+      "director": "Mikhaël Hers",
+      "img": "LesPassagers.jpg"
+        },
+        {
+          "key": 34,
+          "namePL": "Alcarras",
+          "nameEN": "Alcarras",
+      "director": "Carla Simón",
+      "img": "Alcarras.jpg"
+        },
+        {
+          "key": 35,
+          "namePL": "IO",
+          "nameEN": "IO",
+      "director": "Jerzy Skolimowski",
+      "img": "IO.jpg"
+        },
+        {
+          "key": 36,
+          "namePL": "Simona",
+          "nameEN": "Simona",
+      "director": "Natalia Koryncka-Gruz",
+      "img": "Simona.jpg"
+        },
+        {
+          "key": 37,
+          "namePL": "Silent Twins",
+          "nameEN": "Silent Twins",
+      "director": "Agnieszka Smoczyńska",
+      "img": "SilentTwins.jpg"
+        },
+        {
+          "key": 38,
+          "namePL": "Baby Broker",
+          "nameEN": "Baby Broker",
+      "director": "Hirokazu Koreeda",
+      "img": "BabyBroker.jpg"
+        },
+        {
+          "key": 39,
+          "namePL": "Bohater",
+          "nameEN": "Ghahreman",
+      "director": "Asghar Farhadi",
+      "img": "Ghahreman.jpg"
+        },
+        {
+          "key": 40,
+          "namePL": "Na pełny etat",
+          "nameEN": "À plein temps",
+      "director": "Eric Gravel",
+      "img": "Plein.jpg"
+        },
+        {
+          "key": 41,
+          "namePL": "Obrazy bez autora",
+          "nameEN": "Werk ohne Autor",
+      "director": "Florian Henckel von Donnersmarck",
+      "img": "Werk.jpg"
+        },
+        {
+          "key": 42,
+          "namePL": "Lombard",
+          "nameEN": "Lombard",
+      "director": "Łukasz Kowalski",
+      "img": "Lombard.jpg"
+        },
+        {   
+          "key": 43,
+          "namePL": "Kobieta na dachu",
+          "nameEN": "Kobieta na dachu",
+      "director": "Anna Jadowska",
+      "img": "Kobieta.jpg"
+        },
+        {
+          "key": 44,
+          "namePL": "Heavy Trip",
+          "nameEN": "Hevi reissu",
+      "director": "Juuso Laatio, Jukka Vidgren",
+      "img": "Heavy.jpg"
+        }
+      ]
+  }
