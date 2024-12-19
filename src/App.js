@@ -19,7 +19,7 @@ const App = () => {
   return (
     <div className="App">
       <header>
-        <h1>Filmy, które były wyświetlone w żagańskim DKF'ie 'Drewniany koń' w <span>2022</span> roku</h1>
+        <h1>Filmy, które były wyświetlone w żagańskim DKF'ie 'Drewniany koń' w <span>2024</span> roku</h1>
         {/* <Input 
         value = {val}
         onFormSubmit = {onValueSubmit} 
